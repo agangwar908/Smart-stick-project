@@ -16,3 +16,10 @@ With the help of this smart stick person will able to detect any stationary or s
 With the help of this smart stick person will able to detect any stationary or slowly moving object or obstacle via ultrasonic sensor at a distance of 45 cm from stick and also increase a frequency of buzzer when distance of obstacle and stick decreases. When ultrasonic sensor measures the distance less than45 cm sensor transmit signal to the audio module which starts buzzing sound with increasing frequency of buzzing when distance transmitted by ultrasonic sensor decreases.
 It also has an SOS button. On clicking that button a message will send to the guardian of the person using the stick with his/her live location with the help of a Wi-Fi and GPS modules and servers. GPS module gives live location to the Wi-Fi module which sends the position and to the servers which in turn sends the location in the form link in the message. 
 
+# Final Poster  : 
+
+<p align = 'center' ><img src = 'image/IMG-20200123-WA0006.jpg'></p>
+
+# Project Video :
+
+Youtube video link : - "https://www.youtube.com/embed/7H00P7De2D4
